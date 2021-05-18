@@ -13,6 +13,10 @@ body {
 
 button {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	background-color: #ce5f31;
+	color: white;
+	border: none;
+	padding: 10px;
 }
 
 /*  Navigation */
@@ -36,6 +40,10 @@ button {
 
 /* Buttons */
 /* INSERT BUTTON STYLES HERE */
+.volunteer{
+	background-color: white;
+	color: #ce5f31;
+}
 
 
 /* Alert */
